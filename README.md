@@ -1,2 +1,2 @@
-# bitpay
-bitpay - the Python money-management, bank &amp; ATM simulator
+# bitpay - The Python Money-Management Simulator
+#### README to be completed.
